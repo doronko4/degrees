@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae311d45-5699-4b00-8f39-3c05ef62ea6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bBNid8qLUtEjqFcwW5dvBXLIde" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Original/large/people.csv" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../Original/degrees.py" />
+  </component>
+  <component name="RunManager" selected="Python.degrees">
+    <configuration name="Yellow Polygon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="degrees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programs\Python 3.8\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Yellow Polygon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="degrees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="degrees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programs\Python 3.8\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/degrees.py" />
+      <option name="PARAMETERS" value="small" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loops5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="degrees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programs\Python 3.8\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../../../../../Google Drive/Mega1/Teaching/07. Python/Loops lesson" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../../../../../Google Drive/Mega1/Teaching/07. Python/Loops lesson/loops5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testworks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="degrees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programs\Python 3.8\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/testworks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tri" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="degrees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programs\Python 3.8\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/tri.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Yellow Polygon" />
+      <item itemvalue="Python.degrees" />
+      <item itemvalue="Python.loops5" />
+      <item itemvalue="Python.testworks" />
+      <item itemvalue="Python.tri" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.degrees" />
+        <item itemvalue="Python.testworks" />
+        <item itemvalue="Python.tri" />
+        <item itemvalue="Python.Yellow Polygon" />
+        <item itemvalue="Python.loops5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae311d45-5699-4b00-8f39-3c05ef62ea6c" name="Default Changelist" comment="" />
+      <created>1588101654980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588101654980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="115" key="#Yellow_Polygon" timestamp="1588669476707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="115" key="#Yellow_Polygon/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588669476707" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589873731620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589873731620" />
+    <state x="549" y="100" key="#degrees" timestamp="1588101719725">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="549" y="100" key="#degrees/0.0.1680.1010@0.0.1680.1010" timestamp="1588101719725" />
+    <state x="549" y="100" key="#loops4" timestamp="1588241606098">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="549" y="100" key="#loops4/0.0.1680.1010@0.0.1680.1010" timestamp="1588241606098" />
+    <state x="1099" y="141" key="#loops5" timestamp="1588241918209">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1099" y="141" key="#loops5/0.0.1680.1010@0.0.1680.1010" timestamp="1588241918209" />
+    <state x="549" y="100" key="#loops6" timestamp="1588242192805">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="549" y="100" key="#loops6/0.0.1680.1010@0.0.1680.1010" timestamp="1588242192805" />
+    <state x="669" y="115" key="#testworks" timestamp="1588681057318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="115" key="#testworks/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588681057318" />
+    <state x="669" y="115" key="#tri" timestamp="1588669367096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="115" key="#tri/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588669367096" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1588713624591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1588713624591" />
+    <state x="709" y="267" key="FileChooserDialogImpl" timestamp="1589868632044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1588242170904" />
+    <state x="709" y="267" key="FileChooserDialogImpl/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589868632044" />
+    <state width="1899" height="537" key="GridCell.Tab.0.bottom" timestamp="1589873757489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1659" height="629" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588250462449" />
+    <state width="1899" height="537" key="GridCell.Tab.0.bottom/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589873757489" />
+    <state width="1899" height="160" key="GridCell.Tab.0.bottom/1920.36.1680.1010/0.0.1920.1040@1920.36.1680.1010" timestamp="1589213399736" />
+    <state width="1899" height="537" key="GridCell.Tab.0.center" timestamp="1589873757489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1659" height="629" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588250462449" />
+    <state width="1899" height="537" key="GridCell.Tab.0.center/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589873757489" />
+    <state width="1899" height="160" key="GridCell.Tab.0.center/1920.36.1680.1010/0.0.1920.1040@1920.36.1680.1010" timestamp="1589213399736" />
+    <state width="1899" height="537" key="GridCell.Tab.0.left" timestamp="1589873757489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1659" height="629" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588250462449" />
+    <state width="1899" height="537" key="GridCell.Tab.0.left/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589873757489" />
+    <state width="1899" height="160" key="GridCell.Tab.0.left/1920.36.1680.1010/0.0.1920.1040@1920.36.1680.1010" timestamp="1589213399736" />
+    <state width="1899" height="537" key="GridCell.Tab.0.right" timestamp="1589873757489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1659" height="629" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588250462449" />
+    <state width="1899" height="537" key="GridCell.Tab.0.right/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589873757489" />
+    <state width="1899" height="160" key="GridCell.Tab.0.right/1920.36.1680.1010/0.0.1920.1040@1920.36.1680.1010" timestamp="1589213399736" />
+    <state width="1899" height="160" key="GridCell.Tab.1.bottom" timestamp="1589213399736">
+      <screen x="1920" y="36" width="1680" height="1010" />
+    </state>
+    <state width="1899" height="160" key="GridCell.Tab.1.bottom/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589210493182" />
+    <state width="1899" height="160" key="GridCell.Tab.1.bottom/1920.36.1680.1010/0.0.1920.1040@1920.36.1680.1010" timestamp="1589213399736" />
+    <state width="1899" height="160" key="GridCell.Tab.1.center" timestamp="1589213399736">
+      <screen x="1920" y="36" width="1680" height="1010" />
+    </state>
+    <state width="1899" height="160" key="GridCell.Tab.1.center/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589210493182" />
+    <state width="1899" height="160" key="GridCell.Tab.1.center/1920.36.1680.1010/0.0.1920.1040@1920.36.1680.1010" timestamp="1589213399736" />
+    <state width="1899" height="160" key="GridCell.Tab.1.left" timestamp="1589213399736">
+      <screen x="1920" y="36" width="1680" height="1010" />
+    </state>
+    <state width="1899" height="160" key="GridCell.Tab.1.left/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589210493182" />
+    <state width="1899" height="160" key="GridCell.Tab.1.left/1920.36.1680.1010/0.0.1920.1040@1920.36.1680.1010" timestamp="1589213399736" />
+    <state width="1899" height="160" key="GridCell.Tab.1.right" timestamp="1589213399736">
+      <screen x="1920" y="36" width="1680" height="1010" />
+    </state>
+    <state width="1899" height="160" key="GridCell.Tab.1.right/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589210493182" />
+    <state width="1899" height="160" key="GridCell.Tab.1.right/1920.36.1680.1010/0.0.1920.1040@1920.36.1680.1010" timestamp="1589213399736" />
+    <state x="390" y="153" key="SettingsEditor" timestamp="1589869807287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1588244687322" />
+    <state x="390" y="153" key="SettingsEditor/1920.36.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1589869807287" />
+  </component>
+</project>
